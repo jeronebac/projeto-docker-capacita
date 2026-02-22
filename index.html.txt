@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meu Projeto Docker</title>
+</head>
+<body>
+    <h1>Mini Projeto Containerizado</h1>
+    <p>Capacita iRede - Computação em Nuvem</p>
+    <p>Aluno: Jeronimo do Nascimento Sales</p>
+    <p>Container rodando com Docker!</p>
+</body>
+</html>
